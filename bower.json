@@ -1,0 +1,26 @@
+{
+  "name": "jsUrlAnalyzer",
+  "main": "jsUrlAnalyzer.js",
+  "version": "0.0.0",
+  "authors": [
+    "Edouard Kombo <edouard.kombo@gmail.com>"
+  ],
+  "description": "Simple javascript object to analyze url content and get all url parameters and content",
+  "keywords": [
+    "url",
+    "analyzer",
+    "js",
+    "jsUrl",
+    "jsUrlAnalyzer",
+    "urlAnalyzer"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edouardkombo/jsUrlAnalyzer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

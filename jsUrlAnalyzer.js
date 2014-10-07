@@ -21,7 +21,7 @@ urlAnalyzer.prototype = {
     protocol: window.location.protocol,
     pathname: window.location.pathname,
     parameters: window.location.search,
-    
+
     init: function (){
         var query_string = {};
         var query = this.parameters.substring(1);
